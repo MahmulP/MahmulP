@@ -17,7 +17,7 @@ class MahmulP {
 ## ☏ Get in touch
 
 - Personal Site: https://machmulpratama.site
-- Linkedin: https://linkedin.com/in/mahmulp
+- LinkedIn: https://linkedin.com/in/mahmulp
 - Instagram: https://instagram.com/mahmulp14
 
 ## 🔧 Technologies
