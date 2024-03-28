@@ -31,5 +31,5 @@ class MahmulP {
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Composer-informational?style=flat&logo=composer&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-NodeJS-informational?style=flat&logo=nodejsr&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-NodeJS-informational?style=flat&logo=node&logoColor=white&color=6aa6f8)
 
