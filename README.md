@@ -10,7 +10,8 @@ class MahmulP {
     private fun showName(name: String) {
         println(name)
     }
-}```
+}
+```
 
 
 
