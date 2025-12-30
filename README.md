@@ -30,3 +30,4 @@ class MahmulP {
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
